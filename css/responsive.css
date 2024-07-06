@@ -1,0 +1,391 @@
+
+
+@media screen and (min-width: 1440px) {
+
+	.aside-right {
+  		margin: 0 17%;
+	}
+
+	.edit-button button {
+		padding: 8px 41px;
+	}
+
+	.edit-button2 button {
+  		padding: 8px 32px;
+	}
+
+}
+
+
+@media screen and (max-width: 1200px) {
+
+	.about-content p br,
+	.circular-area p br {
+		display: none;
+	}
+
+	#circle-im {
+		left: 8%;
+	}
+
+	#circle-im2 {
+		right: 8%;
+	}
+
+	.shape2 {
+  		bottom: -148px;
+	}
+
+
+
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+	.aside-right {
+  		/*! width: 300px; */
+  		margin: 20% auto;
+  		padding: 0 10%;
+	}
+
+	.aside-left {
+		padding: 0 12%;
+	}
+
+	.edit-button button {
+  		font-size: 15px;
+  		padding: 8px 36px;
+	}
+
+	.edit-button2 button {
+		padding: 8px 28px;
+	}
+
+	.ness {
+		font-size: 18px;
+	}
+
+	.box {
+  		width: 40px;
+  		height: 40px;
+	}
+
+	.load a {
+  		font-size: 15px;
+  		padding: 13px 98px;
+	}
+
+	.sum-link ul li span {
+		font-size: 17px;
+	}
+
+	.sum-link ul li a {
+		font-size: 17px;
+	}
+
+	.footer-area p {
+  		font-size: 15px;
+  		line-height: 18px;
+	}
+
+	.spn7 {
+		left: 4%;
+	}
+
+
+
+
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.studio img {
+		width: 170px;
+	}
+
+	.hrd_nav li a {
+		font-size: 14px;
+	}
+
+	.maker {
+ 		 margin: 0 8px;
+	}
+
+	#cnt {
+  		padding: 10px 17px;
+  		margin-left: 14px;
+	}
+
+	.about-content p br,
+	.circular-area p br {
+		display: none;
+	}
+
+	.about-content h3 br,
+	.browse-text h3 br {
+		display: none;
+	}
+
+	.grp-im {
+		width: 200px;
+	}
+
+	#circle-im {
+		left: 13%;
+	}
+
+	#circle-im2 {
+		right: 13%;
+	}
+
+	.last-im {
+  		margin: -20px 0 0 0;
+	}
+
+	.spn5 {
+		left: 15%;
+		top: 29%;
+	}
+
+	.aside-left {
+		padding: 0 10%;
+		/*! width: 300px; */
+		margin: 0 auto;
+	}
+
+	.image-range a {
+		font-size: 15px;
+		padding: 5px 61px 12px;
+	}
+
+	.image-range img {
+  		width: 100%;
+	}
+
+	.spn7 {
+		top: 36%;
+		left: 2%;
+	}
+
+	.spn8 {
+		top: 45%;
+		right: 1%;
+	}
+
+	.aside-right {
+  		/*! width: 300px; */
+  		margin: 20% auto;
+	}
+
+	.edit-button button {
+  		font-size: 12px;
+  		padding: 8px 30px;
+	}
+
+	.edit-button2 button {
+		padding: 8px 23.5px;
+	}
+
+	.ness {
+		font-size: 18px;
+	}
+
+	.box {
+  		width: 30px;
+  		height: 30px;
+	}
+
+	.load a {
+  		font-size: 15px;
+  		padding: 13px 98px;
+	}
+
+	.sum-link ul li span {
+		font-size: 17px;
+	}
+
+	.sum-link ul li a {
+		font-size: 17px;
+	}
+
+	.footer-area p {
+  		font-size: 15px;
+  		line-height: 18px;
+	}
+
+
+}
+
+
+@media screen and (max-width: 767px) {
+
+	.header-area {
+  		padding: 15px 0;
+	}
+
+	.studio img {
+		width: 120px;
+	}
+
+	.hrd_nav {
+		margin: 50px 0;
+	}
+
+	.about-content h2 {
+  		font-size: 40px;
+  		margin: 20px 0 0px 0;
+	}
+
+	.about-content p,
+	.circular-area p {
+  		font-size: 13px;
+  		text-align: justify;
+	}
+
+	.about-content p br,
+	.circular-area p br {
+		display: none;
+	}
+
+	.group1-im,
+	.group2-im,
+	.group3-im {
+		width: 70px;
+	}
+
+	.about-content h3,
+	.circular-content h3,
+	.browse-text h3 {
+  		font-size: 20px;
+  		line-height: 25px;
+  		margin: 15px 0 20px 0;
+	}
+	
+	.about-content h3 br,
+	.browse-text h3 br {
+		display: none;
+	}
+
+	#flex-area .spn1 {
+		top: -10%;
+	}
+
+	#circle-im {
+		position: initial;
+	}
+
+	#circle-im2 {
+		position: initial;
+	}
+
+	.people-im h4 br {
+		display: none;
+	}
+
+	.shape1 {
+		bottom: 15%;
+	}
+
+	.pson-marg {
+		padding: 50px 0;
+	}
+
+	.kraft1 {
+		margin: 0 0 40px;
+	}
+
+	.kraft2 {
+		position: initial;
+	}
+
+	.spn3 {
+		left: 6%;
+		top: 0px;
+	}
+
+	.spn4 {
+		bottom: 32px;
+		right: 3%;
+	}
+
+	.spn5 {
+		left: 6%;
+		top: 13%;
+	}
+
+	.browse-text {
+		padding: 30px 0 0;
+	}
+
+	.aside-left {
+		padding: 0;
+		width: 300px;
+		margin: 0 auto;
+	}
+
+	.image-range a {
+		font-size: 15px;
+	}
+
+	.image-range img {
+  		width: 100%;
+	}
+
+	.spn7 {
+		top: 21%;
+		left: 2%;
+	}
+
+	.spn8 {
+		top: 33%;
+	}
+
+	.aside-right {
+  		width: 300px;
+  		margin: 20% auto;
+	}
+
+	.edit-button button {
+  		font-size: 12px;
+  		padding: 8px 30px;
+	}
+
+	.edit-button2 button {
+		padding: 8px 23.5px;
+	}
+
+	.ness {
+		font-size: 18px;
+	}
+
+	.box {
+  		width: 30px;
+  		height: 30px;
+	}
+
+	.load a {
+  		font-size: 15px;
+  		padding: 13px 98px;
+	}
+
+	.sum-link ul li span {
+		font-size: 17px;
+	}
+
+	.sum-link ul li a {
+		font-size: 17px;
+	}
+
+	.footer-area p {
+  		font-size: 15px;
+  		line-height: 18px;
+	}
+
+
+
+
+}
